@@ -1,33 +1,31 @@
-University of Engineering and Technology(UTEC) - Programming I - Proyect I
+**University of Engineering and Technology (UTEC) - Programming I - Proyect I**
 
-Teacher in charge: Nina Choquehuayta, Wilder
+_Teacher in charge: Nina Choquehuayta, Wilder_
 
-
-
-After running the python program, input "init" to start the game.
+Game start
+---
+After running the python program, input "**init**" to start the game.  
 Input time between each frame/action/movement.
 
 ![minecraft 2D-1](https://user-images.githubusercontent.com/108970365/178094349-b64352fd-2553-4c59-9d75-b7afb32906fc.png)
 
 All possible inputs:
-
+---
 Movements:		-> add a number before inputing a cardinal direction to move towards that direction more than once
-1. up
-2. down
-3. right
-4. left
-
-
+1. **up**
+2. **down**
+3. **right**
+4. **left**  
 
 Actions:
-1. destroy		-> destroys the block that the indicator is hovering over(Grass,Sun,Dirt,Water)
-2. extract		-> extracts/collects the block that the indicator is hovering over(Wood,Stone)
-3. build block_name	-> if available, place the desired block in over the indicator(wood, stone)
+1. **destroy**		-> destroys the block that the indicator is hovering over(Grass,Sun,Dirt,Water)
+2. **extract**		-> extracts/collects the block that the indicator is hovering over(Wood,Stone)
+3. **build block_name**	-> if available, place the desired block in over the indicator(wood, stone)
 
 
 
-Example of inputs:	-> instructions can be concatenated with the use of comma ","
-
+Example of inputs:              	-> instructions can be concatenated with the use of comma ","
+---
 2 right,extract,2left,build wood
 
 up,20 right,5 down
