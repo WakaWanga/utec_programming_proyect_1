@@ -4,7 +4,7 @@ Teacher in charge: Nina Choquehuayta, Wilder
 After running the python program, input "init" to start the game.
 Input time between each frame/action/movement.
 
-
+![alt text](https://github.com/WakaWanga/utec_programming_proyect_1/blob/master/minecraft 2D-1.png?raw=true)
 
 All possible inputs:
 
@@ -31,4 +31,6 @@ up,20 right,5 down
 
 
 2 right,extract,down,extract,2 up,extract,up,extract,up,destroy,left,destroy,left,destroy,up,right,destroy,right,destroy,up,destroy,right,down,destroy,down,destroy,right,destroy,3 down,extract,down,extract,right,extract,up,extract,up,extract,right,down,extract,down,extract,up,2 right,extract,down,extract,2 up,extract,up,extract,up,destroy,left,destroy,left,destroy,up,right,destroy,right,destroy,up,destroy,right,down,destroy,down,destroy,right,destroy,left,4 down,extract,3 right,extract,right,extract,up,extract,left,2 right,extract,down,extract,2 up,extract,up,extract,up,destroy,left,destroy,left,destroy,up,right,destroy,right,destroy,up,destroy,right,down,destroy,down,destroy,right,destroy,right,4 down,extract,2 right,extract,up,extract,up,extract,up,extract,up,extract,up,extract,up,destroy,left,destroy,left,destroy,left,destroy,up,right,destroy,right,destroy,up,destroy,up,right,destroy,down,destroy,down,destroy,up,right,destroy,down,destroy,down,destroy,right,destroy,up,destroy,right,down,destroy,down,down,destroy,down,destroy,left,destroy,2 right,destroy,down,left,extract,down,extract,down,extract,6 up,4 right,down,down,destroy,down,destroy,left,destroy,2 right,destroy,down,left,extract,down,extract,down,extract,right,extract,5 right,extract,2 right,extract,extract,up,extract,up,extract,up,extract,up,extract,up,extract,up,destroy,left,destroy,left,destroy,left,destroy,up,right,destroy,right,destroy,up,destroy,up,right,destroy,down,destroy,down,destroy,up,right,destroy,down,destroy,down,destroy,right,destroy,up,destroy,right,down,destroy,2 down,left,destroy,down,destroy,left,destroy,2 right,destroy,down,left,extract,down,extract,down,extract,9 left,build stone,left,build stone,up,build stone,left,build stone,left,build stone,left,build stone,left,build stone,down,build stone,left,build stone,12 left,build wood,up,build wood,up,build wood,up,build wood,up,build wood,left,build wood,up,right,build wood,right,build wood,up,build wood,right,build wood,right,build wood,right,build wood,right,build wood,down,build wood,right,build wood,down,build wood,right,build wood,left,down,build wood,down,build wood,down,build wood,down,build wood,left,build stone,left,build stone,left,build stone,left,build stone,left,build stone,3 right,up,build wood,up,build wood,5 up,build wood,right,build wood,11 left,2 up,build wood,2 right,build wood,3 left,2 down,build wood,right,down,build wood,right,build wood,right,build wood,up,right,build wood,5 down,5 right
+
+![alt text](https://github.com/WakaWanga/utec_programming_proyect_1/blob/master/minecraft 2D-2.png?raw=true)
 
